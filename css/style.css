@@ -1,0 +1,39 @@
+nav {
+    background-color: #414658;
+    height: 100vh !important;
+}
+
+header {
+    height: 70vh;
+    background-image: url(../images/events-heavenly-header.jpg);
+    background-size: 100% 100%;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+.overlay {
+    background-color: rgba(214, 46, 51, 0.6);
+}
+
+#navOpenBtn {
+    white-space: nowrap;
+}
+
+#singers h3 {
+    background-color: rgba(214, 46, 51, 0.6);
+}
+
+#singers p {
+    background-color: #ccc
+}
+
+#counter {
+    background-image: url(../images/invitation-2508607__340.jpg);
+    background-size: 100% 100%;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+.counter {
+    padding: 4rem;
+}
